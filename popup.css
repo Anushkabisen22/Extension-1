@@ -1,0 +1,17 @@
+body {
+    width: 200px;
+    font-family: Arial, sans-serif;
+    background: #b7d6f5;
+
+}
+#fetchTitleButton {
+    margin: 10px 0;
+    background-color: #b7d6f5;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+#tabTitle {
+    margin-top: 10px;
+    font-weight: bold;
+}
